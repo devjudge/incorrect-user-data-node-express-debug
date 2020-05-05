@@ -4,8 +4,7 @@ EXPRESS 4.17 SPA
 IMPORTANT NOTES:
 
     1. Make sure you follow the steps mentioned under "PROJECT START STEPS" and ensure that the steps execute successfully. 
-    2. Make sure you follow the steps mentioned under "DOCKER START STEPS" and ensure that the steps execute successfully. 
-
+    
 PROJECT START STEPS:
 
     Pre-requisites:
